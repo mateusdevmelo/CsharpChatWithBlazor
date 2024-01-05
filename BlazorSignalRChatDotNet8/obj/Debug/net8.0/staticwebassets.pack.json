@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mateu\\source\\repos\\BlazorSignalRChatDotNet8\\BlazorSignalRChatDotNet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorSignalRChatDotNet8.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorSignalRChatDotNet8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mateu\\source\\repos\\BlazorSignalRChatDotNet8\\BlazorSignalRChatDotNet8\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Mateu\\source\\repos\\BlazorSignalRChatDotNet8\\BlazorSignalRChatDotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mateu\\source\\repos\\BlazorSignalRChatDotNet8\\BlazorSignalRChatDotNet8\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mateu\\source\\repos\\BlazorSignalRChatDotNet8\\BlazorSignalRChatDotNet8\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSignalRChatDotNet8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSignalRChatDotNet8.props",
+      "PackagePath": "build\\BlazorSignalRChatDotNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSignalRChatDotNet8.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSignalRChatDotNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSignalRChatDotNet8.props",
+      "PackagePath": "buildTransitive\\BlazorSignalRChatDotNet8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

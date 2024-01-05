@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSignalRChatDotNet8", "BlazorSignalRChatDotNet8\BlazorSignalRChatDotNet8.csproj", "{11BEAE3B-0190-4E8D-B898-FAA2666DB4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSignalRChatDotNet8.Client", "BlazorSignalRChatDotNet8.Client\BlazorSignalRChatDotNet8.Client.csproj", "{AD70208E-7BCB-4549-8E08-A4EA1BD3F011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11BEAE3B-0190-4E8D-B898-FAA2666DB4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BEAE3B-0190-4E8D-B898-FAA2666DB4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BEAE3B-0190-4E8D-B898-FAA2666DB4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BEAE3B-0190-4E8D-B898-FAA2666DB4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD70208E-7BCB-4549-8E08-A4EA1BD3F011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70208E-7BCB-4549-8E08-A4EA1BD3F011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70208E-7BCB-4549-8E08-A4EA1BD3F011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70208E-7BCB-4549-8E08-A4EA1BD3F011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1483B01-E597-447B-A0A1-DF1F1A6C0315}
+	EndGlobalSection
+EndGlobal
